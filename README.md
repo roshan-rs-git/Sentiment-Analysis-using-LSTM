@@ -82,10 +82,10 @@ cd sentiment-analysis-bilstm
 python visualization/visualization.py
 ```
 
-3. Run the Jupyter notebook:
+3. Run the Google Colab notebook:
 
 ```bash
-jupyter notebook notebook/sentiment_analysis.ipynb
+!git clone https://github.com/roshan-rs-git/_IMDB_dataset_sentiment_Bidirectional_LSTM.ipynb
 ```
 
 ## Results
