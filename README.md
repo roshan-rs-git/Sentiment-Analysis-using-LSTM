@@ -9,9 +9,9 @@ sentiment-analysis-bilstm/
 ├── dataset/
 │   └── README.md          # Dataset description
 ├── notebook/
-│   └── sentiment_analysis.ipynb  # Implementation notebook
+│   └── _IMDB_dataset_sentiment_Bidirectional_LSTM.ipynb  # Implementation notebook
 └── visualization/
-    └── visualization.py   # Data visualization scripts
+    └── IMDB_dataset_visualization.ipynb   # Data visualization scripts
 ```
 
 ## Approach
@@ -79,13 +79,13 @@ cd sentiment-analysis-bilstm
 2. For visualizations:
 
 ```bash
-python visualization/visualization.py
+- /visualization/IMDB_dataset_visualization.ipynb
 ```
 
 3. Run the Google Colab notebook:
 
 ```bash
-!git clone https://github.com/roshan-rs-git/_IMDB_dataset_sentiment_Bidirectional_LSTM.ipynb
+- /ipynb/_IMDB_dataset_sentiment_Bidirectional_LSTM.ipynb
 ```
 
 ## Results
